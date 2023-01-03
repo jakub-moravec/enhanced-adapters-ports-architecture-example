@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="enhanced-adapters-ports-architecture-example-posts-service-app" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-repositoryport" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-controller" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-inputport" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-client" />
+        <module name="enhanced-adapters-ports-architecture-example-posts-service-inputport" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-repository" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-app" />
+        <module name="enhanced-adapters-ports-architecture-example-posts-service-repositoryport" />
+        <module name="enhanced-adapters-ports-architecture-example-simplified-deployment-app" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-logic" />
+        <module name="enhanced-adapters-ports-architecture-example-posts-service-controller" />
+        <module name="enhanced-adapters-ports-architecture-example-posts-service-logic" />
+        <module name="enhanced-adapters-ports-architecture-example-friends-service-model" />
+        <module name="enhanced-adapters-ports-architecture-example-posts-service-repository" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-app" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-client" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-controller" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-inputport" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-logic" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-model" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-repository" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-friends-service-repositoryport" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-posts-service-app" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-posts-service-controller" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-posts-service-inputport" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-posts-service-logic" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-posts-service-repository" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-posts-service-repositoryport" options="-parameters" />
+      <module name="enhanced-adapters-ports-architecture-example-simplified-deployment-app" options="-parameters" />
+    </option>
+  </component>
+</project>

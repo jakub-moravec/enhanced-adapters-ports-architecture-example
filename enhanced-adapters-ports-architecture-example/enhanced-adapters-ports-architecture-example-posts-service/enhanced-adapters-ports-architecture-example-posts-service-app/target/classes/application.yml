@@ -1,0 +1,8 @@
+server:
+  port : 8089
+example:
+  friends:
+    service:
+      get:
+        friends:
+          url: http://localhost:8088/internal/v1/friends

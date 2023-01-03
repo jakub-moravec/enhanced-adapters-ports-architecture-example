@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-inputport/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-logic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/enhanced-adapters-ports-architecture-example-friends-service-repositoryport/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-friends-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/enhanced-adapters-ports-architecture-example-posts-service-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/enhanced-adapters-ports-architecture-example-posts-service-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/enhanced-adapters-ports-architecture-example-posts-service-inputport/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/enhanced-adapters-ports-architecture-example-posts-service-logic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/enhanced-adapters-ports-architecture-example-posts-service-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/enhanced-adapters-ports-architecture-example-posts-service-repositoryport/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-posts-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enhanced-adapters-ports-architecture-example-simplified-deployment-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
